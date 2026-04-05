@@ -1,0 +1,12 @@
+{
+  "name": "awesome-langgraph-maintenance",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Lightweight maintenance tooling for awesome-LangGraph",
+  "scripts": {
+    "check:outdated-projects": "node scripts/check-outdated-projects.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

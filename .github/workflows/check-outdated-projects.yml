@@ -1,0 +1,33 @@
+name: Check Outdated Projects
+
+on:
+  schedule:
+    - cron: '0 9 * * 1'
+  workflow_dispatch:
+  pull_request:
+    paths:
+      - 'README.md'
+      - 'scripts/check-outdated-projects.mjs'
+      - '.github/workflows/check-outdated-projects.yml'
+      - 'package.json'
+
+jobs:
+  check-outdated-projects:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Check outdated community projects
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          MAX_AGE_MONTHS: '13'
+          FAIL_ON_FINDINGS: 'true'
+        run: npm run check:outdated-projects
