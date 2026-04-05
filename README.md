@@ -26,15 +26,9 @@ Contributions welcome—see the [Contributing Guide](CONTRIBUTING.md).
   - [🦜 LangChain 🔗](#-langchain-)
     - [Core Components](#core-components)
     - [Advanced Usage](#advanced-usage)
-    - [LangChain Documentation and llms.txt Files](#-langchain-documentation-and-llmstxt-files-️)
   - [🦜 LangGraph 🕸️](#-langgraph-️)
-    - [LangGraph Documentation and llms.txt Files](#-langgraph-documentation-and-llmstxt-files-️)
   - [🧠 Deep Agents](#-deep-agents)
-    - [Core Capabilities](#core-capabilities)
-    - [Deep Agents SDK and CLI](#-deep-agents-sdk-and-cli-️)
-    - [Deep Agents Documentation and llms.txt Files](#-deep-agents-documentation-and-llmstxt-files-️)
   - [🦜 LangSmith 🛠️](#-langsmith-️)
-    - [LangSmith Documentation and llms.txt Files](#-langsmith-documentation-and-llmstxt-files-️)
   - [🧩 LangSmith Fleet](#-langsmith-fleet)
   - [🦜 LangChain Integrations \& Partners 🤝](#-langchain-integrations--partners-)
   - [🟢 Official LangGraph Projects 🦜](#-official-langgraph-projects-)
@@ -172,7 +166,7 @@ The **LangChain/Graph Ecosystem** is a comprehensive suite of frameworks and pla
 </details>
 
 <details>
-<summary><strong>▫️ LangChain Documentation and llms.txt Files ▫️</strong></summary>
+<summary><strong>▫️ LangChain Documentation ▫️</strong></summary>
 
 Access the official LangChain documentation across the current unified docs experience and legacy redirect URLs:
 
@@ -247,7 +241,7 @@ Access the official LangChain documentation across the current unified docs expe
 
 
 <details>
-<summary><strong> ▫️ LangGraph Documentation and llms.txt Files ▫️</strong></summary>
+<summary><strong> ▫️ LangGraph Documentation ▫️</strong></summary>
 
 Access the official LangGraph documentation across the current unified open source docs:
 
@@ -310,7 +304,7 @@ Access the official LangGraph documentation across the current unified open sour
 </details>
 
 <details>
-<summary><strong> ▫️ Deep Agents Documentation and llms.txt Files ▫️</strong></summary>
+<summary><strong> ▫️ Deep Agents Documentation ▫️</strong></summary>
 
 Access the official Deep Agents documentation across the current unified open source docs:
 
@@ -374,7 +368,7 @@ Access the official Deep Agents documentation across the current unified open so
 </details>
 
 <details>
-<summary><strong>🔹 LangSmith Documentation and llms.txt Files 🔹</strong></summary>
+<summary><strong>🔹 LangSmith Documentation 🔹</strong></summary>
 
 Access the official LangSmith platform documentation:
 
