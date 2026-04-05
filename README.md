@@ -23,18 +23,13 @@ Contributions welcome—see the [Contributing Guide](CONTRIBUTING.md).
   - [Table of Contents](#table-of-contents)
   - [🌐 What is the LangChain/Graph Ecosystem](#-what-is-the-langchaingraph-ecosystem)
     - [Ecosystem Components:](#ecosystem-components)
-  - [🦜 LangChain 🔗](#-langchain-)
-    - [Core Components](#core-components)
-    - [Advanced Usage](#advanced-usage)
-  - [🦜 LangGraph 🕸️](#-langgraph-️)
-  - [🧠 Deep Agents](#-deep-agents)
-  - [🦜 LangSmith 🛠️](#-langsmith-️)
-  - [🧩 LangSmith Fleet](#-langsmith-fleet)
-  - [🦜 LangChain Integrations \& Partners 🤝](#-langchain-integrations--partners-)
-  - [🟢 Official LangGraph Projects 🦜](#-official-langgraph-projects-)
-    - [🟩 Specialized Agent Libraries 🤖](#-specialized-agent-libraries-)
-    - [🟩 Apps \& Agents 📱](#-apps--agents-)
-    - [🟩 Development Tools 🛠️](#-development-tools-️)
+  - [ LangChain 🔗](#-langchain-)
+  - [ LangGraph 🕸️](#-langgraph-️)
+  - [Deep Agents 🧠](#-deep-agents)
+  - [LangSmith 🛠️](#-langsmith-️)
+  - [LangSmith Fleet 🧩](#-langsmith-fleet)
+  - [LangChain Integrations \& Partners 🤝](#-langchain-integrations--partners-)
+  - [Official Libs, Apps and Tools 🟢 ](#-official-langgraph-projects-)
 - [🌟 Community Projects](#-community-projects)
   - [🧬 Bio \& Health](#-bio--health)
   - [🌐 Web Automation \& Scraping](#-web-automation--scraping)
@@ -56,8 +51,6 @@ Contributions welcome—see the [Contributing Guide](CONTRIBUTING.md).
   - [📋 Templates \& Starters](#-templates--starters)
   - [🏢 Workplace \& Productivity](#-workplace--productivity)
   - [📚 Learning Resources](#-learning-resources)
-    - [Official — LangGraph Academy](#official--langgraph-academy)
-    - [Community Courses](#community-courses)
   - [📖 Additional Resources](#-additional-resources)
   - [👥 Communities](#-communities)
   - [🤝 Contributing](#-contributing)
@@ -1348,47 +1341,135 @@ Browse the full template catalog here:
 </div>
 
 
-### Official — LangGraph Academy
-- **[Introduction to LangGraph](https://academy.langchain.com/courses/intro-to-langgraph)** — Core concepts: graphs, routers, agents, state, memory, streaming, deployment.
-- **[Ambient Agents (Project)](https://academy.langchain.com/courses/ambient-agents)** — Build an email assistant. Includes agent evals and LangSmith integration.
-- **[Deep Research (Project)](https://academy.langchain.com/courses/deep-research-with-langgraph)** — Build a multi-agent research workflow with supervisors and MCP.
-- **[Agent Observability & Evaluations](https://academy.langchain.com/courses/intro-to-langsmith)** — Tracing, testing, evals, prompt iteration, human feedback, production monitoring.
+### Official — LangChain Academy
+
+<details>
+<summary><strong>Foundation Courses</strong></summary>
+
+| Name | Description |
+|---|---|
+| [Monitoring Production Agents](https://academy.langchain.com/collections/foundation) | Learn how to monitor and improve agents in production, track costs, analyze traces, and watch quality and latency over time. |
+| [Building Reliable Agents](https://academy.langchain.com/collections/foundation) | Take an agent from first run to production-ready system through iterative cycles of improvement with LangSmith. |
+| [Introduction to LangChain - Python](https://academy.langchain.com/collections/foundation) | Learn how to build AI agents with LangChain using pre-built architectures and model integrations, then debug them with LangSmith Observability. |
+| [Introduction to Agent Observability & Evaluations](https://academy.langchain.com/courses/intro-to-langsmith) | Learn the essentials of agent observability and evaluations with LangSmith. |
+| [Introduction to LangGraph - Python](https://academy.langchain.com/courses/intro-to-langgraph) | Learn the basics of LangGraph for building agentic and multi-agent applications with more precision and control. |
+
+</details>
+
+<details>
+<summary><strong>Project Courses</strong></summary>
+
+| Name | Description |
+|---|---|
+| [Deep Agents](https://academy.langchain.com/courses/deep-agents-with-langgraph) | Learn the fundamental characteristics of Deep Agents and implement your own Deep Agent for complex, long-running tasks. |
+| [Ambient Agents with LangGraph](https://academy.langchain.com/courses/ambient-agents/) | Build an ambient email agent with LangGraph and evaluate it with LangSmith. |
+| [Deep Research with LangGraph](https://academy.langchain.com/courses/deep-research-with-langgraph) | Build a deep research agent with LangGraph and evaluate its performance with LangSmith. |
+
+</details>
+
+<details>
+<summary><strong>Quickstart Courses</strong></summary>
+
+| Name | Description |
+|---|---|
+| [LangSmith Agent Builder](https://academy.langchain.com/courses/quickstart-agent-builder/) | Start creating no-code agents for real work using everyday language. |
+| [LangSmith Essentials](https://academy.langchain.com/courses/quickstart-langsmith-essentials) | Learn the essentials of LangSmith for continuous testing and improvement with live production data. |
+| [LangGraph Essentials - TypeScript](https://academy.langchain.com/courses/quickstart-langgraph-essentials-typescript) | Learn LangGraph essentials in TypeScript by building an email workflow. |
+| [LangGraph Essentials - Python](https://academy.langchain.com/courses/langgraph-essentials-python) | Learn LangGraph essentials in Python by building an email workflow. |
+| [LangChain Essentials - TypeScript](https://academy.langchain.com/courses/quickstart-langchain-essentials-typescript) | Learn the core elements of LangChain in TypeScript, including `create_agent`, tools, MCP, streaming, and structured outputs. |
+| [LangChain Essentials - Python](https://academy.langchain.com/courses/langchain-essentials-python) | Learn the core elements of LangChain in Python, including `create_agent`, tools, MCP, streaming, and structured outputs. |
+
+</details>
 
 ### Community Courses
 - **[LangGraph — Develop LLM-Powered AI Agents (Udemy)](https://www.udemy.com/course/langgraph/)** — Practical LangGraph agent patterns. Instructor: [emarco177](https://github.com/emarco177).
 
-
-<div align="center">
-
-<div align="center">
-
 ## 📖 Additional Resources
-
-</div>
 
 *A compact list of tutorials, workshops, blogs, and case studies you can keep growing over time.*
 
-| Name | Type | Description |
-|---|---|---|
-| [Ava WhatsApp Agent Course](https://github.com/neural-maze/ava-whatsapp-agent-course) | Course | Build a WhatsApp agent with voice processing, image generation, and long-term memory using LangGraph. |
-| [GenAI Agents](https://github.com/NirDiamant/GenAI_Agents) | Examples | A collection of agent implementation examples and patterns. |
-| [RAG Techniques](https://github.com/NirDiamant/RAG_Techniques) | Tutorials | Several RAG implementations and step-by-step walkthroughs. |
-| [Grounding RAG Applications Workshop](https://github.com/carlyrichmond/webdevcon-grounding-rag-applications-workshop) | Workshop | Hands-on RAG chatbot + travel planning agents with JavaScript and Elasticsearch. |
-| [LinkedIn — Practical Text-to-SQL](https://www.linkedin.com/blog/engineering/ai/practical-text-to-sql-for-data-analytics) | Blog | Search & discovery and analytics use cases with text-to-SQL at LinkedIn. |
-| [Uber — AI-Driven Developer Productivity](https://dpe.org/sessions/ty-smith-adam-huda/this-year-in-ubers-ai-driven-developer-productivity-revolution/) | Talk | How Uber boosts developer productivity and code generation with AI. |
-| [GitLab — Duo Workflow](https://handbook.gitlab.com/handbook/engineering/architecture/design-documents/duo_workflow/) | Docs | Architecture documentation for code-generation workflows. |
-| [Klarna — Domain Copilot](https://blog.langchain.dev/customers-klarna/) | Case Study | Production copilot for domain-specific tasks. |
-| [Rakuten — From Hype to Real Tools](https://rakuten.today/blog/from-ai-hype-to-real-world-tools-rakuten-teams-up-with-langchain.html) | Blog | Partnership details and production applications with LangChain. |
-| [Minimal — Multi-Agent Customer Support](https://blog.langchain.dev/how-minimal-built-a-multi-agent-customer-support-system-with-langgraph-langsmith/) | Case Study | Customer support system built with LangGraph and LangSmith. |
-| [Komodo Health — Enterprise Assistant](https://www.komodohealth.com/perspectives/new-gen-ai-assistant-empowers-the-enterprise/) | Blog | Enterprise assistant enabling domain workflows in healthcare. |
-| [OpenRecovery — Clinical Copilot](https://blog.langchain.dev/customers-openrecovery/) | Case Study | Clinical copilot for healthcare operations. |
-| [AppFolio — Embedded Copilots](https://blog.langchain.dev/customers-appfolio/) | Case Study | Product-embedded copilots in a real-estate platform. |
-| [Cisco Outshift — DevOps Agent via REST](https://outshift.cisco.com/blog/build-react-agent-application-for-devops-tasks-using-rest-apis) | Blog | Building a React agent app for DevOps tasks using REST APIs. |
-| [Elastic — Security GenAI Features](https://www.elastic.co/blog/elastic-security-generative-ai-features) | Blog | Generative AI features for security workflows. |
-| [Infor — Product Copilots & Support](https://blog.langchain.dev/customers-infor/) | Case Study | Embedded product experiences, support, and copilots. |
-| [AirTop — Browser Automation for Agents](https://blog.langchain.dev/customers-airtop/) | Case Study | Agentic browser automation platform. |
-| [Athena Intelligence — Research & Summarization](https://blog.langchain.dev/customers-athena-intelligence/) | Case Study | Research and summarization workflows in production. |
-| [Captide — Agentic Equity Research](https://blog.langchain.dev/how-captide-is-redefining-equity-research-with-agentic-workflows-built-on-langgraph-and-langsmith/) | Case Study | Equity research using LangGraph + LangSmith agentic workflows. |
+<details>
+<summary><strong>Courses</strong></summary>
+
+| Name | Description |
+|---|---|
+| [Ava WhatsApp Agent Course](https://github.com/neural-maze/ava-whatsapp-agent-course) | Build a WhatsApp agent with voice processing, image generation, and long-term memory using LangGraph. |
+
+</details>
+
+<details>
+<summary><strong>Examples</strong></summary>
+
+| Name | Description |
+|---|---|
+| [GenAI Agents](https://github.com/NirDiamant/GenAI_Agents) | A collection of agent implementation examples and patterns. |
+
+</details>
+
+<details>
+<summary><strong>Tutorials</strong></summary>
+
+| Name | Description |
+|---|---|
+| [RAG Techniques](https://github.com/NirDiamant/RAG_Techniques) | Several RAG implementations and step-by-step walkthroughs. |
+
+</details>
+
+<details>
+<summary><strong>Workshops</strong></summary>
+
+| Name | Description |
+|---|---|
+| [Grounding RAG Applications Workshop](https://github.com/carlyrichmond/webdevcon-grounding-rag-applications-workshop) | Hands-on RAG chatbot + travel planning agents with JavaScript and Elasticsearch. |
+
+</details>
+
+<details>
+<summary><strong>Blogs</strong></summary>
+
+| Name | Description |
+|---|---|
+| [LinkedIn — Practical Text-to-SQL](https://www.linkedin.com/blog/engineering/ai/practical-text-to-sql-for-data-analytics) | Search & discovery and analytics use cases with text-to-SQL at LinkedIn. |
+| [Rakuten — From Hype to Real Tools](https://rakuten.today/blog/from-ai-hype-to-real-world-tools-rakuten-teams-up-with-langchain.html) | Partnership details and production applications with LangChain. |
+| [Komodo Health — Enterprise Assistant](https://www.komodohealth.com/perspectives/new-gen-ai-assistant-empowers-the-enterprise/) | Enterprise assistant enabling domain workflows in healthcare. |
+| [Cisco Outshift — DevOps Agent via REST](https://outshift.cisco.com/blog/build-react-agent-application-for-devops-tasks-using-rest-apis) | Building a React agent app for DevOps tasks using REST APIs. |
+| [Elastic — Security GenAI Features](https://www.elastic.co/blog/elastic-security-generative-ai-features) | Generative AI features for security workflows. |
+
+</details>
+
+<details>
+<summary><strong>Talks</strong></summary>
+
+| Name | Description |
+|---|---|
+| [Uber — AI-Driven Developer Productivity](https://dpe.org/sessions/ty-smith-adam-huda/this-year-in-ubers-ai-driven-developer-productivity-revolution/) | How Uber boosts developer productivity and code generation with AI. |
+
+</details>
+
+<details>
+<summary><strong>Docs</strong></summary>
+
+| Name | Description |
+|---|---|
+| [GitLab — Duo Workflow](https://handbook.gitlab.com/handbook/engineering/architecture/design-documents/duo_workflow/) | Architecture documentation for code-generation workflows. |
+
+</details>
+
+<details>
+<summary><strong>Case Studies</strong></summary>
+
+| Name | Description |
+|---|---|
+| [Klarna — Domain Copilot](https://blog.langchain.dev/customers-klarna/) | Production copilot for domain-specific tasks. |
+| [Minimal — Multi-Agent Customer Support](https://blog.langchain.dev/how-minimal-built-a-multi-agent-customer-support-system-with-langgraph-langsmith/) | Customer support system built with LangGraph and LangSmith. |
+| [OpenRecovery — Clinical Copilot](https://blog.langchain.dev/customers-openrecovery/) | Clinical copilot for healthcare operations. |
+| [AppFolio — Embedded Copilots](https://blog.langchain.dev/customers-appfolio/) | Product-embedded copilots in a real-estate platform. |
+| [Infor — Product Copilots & Support](https://blog.langchain.dev/customers-infor/) | Embedded product experiences, support, and copilots. |
+| [AirTop — Browser Automation for Agents](https://blog.langchain.dev/customers-airtop/) | Agentic browser automation platform. |
+| [Athena Intelligence — Research & Summarization](https://blog.langchain.dev/customers-athena-intelligence/) | Research and summarization workflows in production. |
+| [Captide — Agentic Equity Research](https://blog.langchain.dev/how-captide-is-redefining-equity-research-with-agentic-workflows-built-on-langgraph-and-langsmith/) | Equity research using LangGraph + LangSmith agentic workflows. |
+
+</details>
 
 ---
 
