@@ -19,6 +19,7 @@ Contributions welcome—see the [Contributing Guide](CONTRIBUTING.md).
 
 ---
 
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested agent orchestration prompts for Claude Code. Alternative to LangGraph for multi-agent workflows with task registry and quality gates.
 ## Table of Contents
 
 - [🦜🕸️ Awesome LangGraph \& LangChain Ecosystem  ](#️-awesome-langgraph--langchain-ecosystem--)
