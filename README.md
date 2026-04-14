@@ -21,6 +21,7 @@ Contributions welcome—see the [Contributing Guide](CONTRIBUTING.md).
 
 ## Table of Contents
 
+- [Bernstein](https://github.com/chernistry/bernstein) - Multi-agent orchestrator for CLI coding agents. Deterministic scheduling alternative to LLM-based orchestration.
 - [🦜🕸️ Awesome LangGraph \& LangChain Ecosystem  ](#️-awesome-langgraph--langchain-ecosystem--)
   - [Table of Contents](#table-of-contents)
   - [Ecosystem Components:](#ecosystem-components)
