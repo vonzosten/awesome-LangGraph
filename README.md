@@ -1397,7 +1397,7 @@ No active community listings currently.
 
 </div>
 
-We welcome additions and fixes! Please read the **[Contributing Guide](CONTRIBUTING.md)** for the submission process, formatting rules, and category guidelines before opening an issue or pull request.
+We welcome additions and fixes. Please read the **[Contributing Guide](CONTRIBUTING.md)** before opening an issue or pull request; it now includes the submission process, formatting rules, category guidance, and the minimum quality bar for new community project entries.
 
 
 ---

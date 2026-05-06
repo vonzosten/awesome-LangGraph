@@ -1,95 +1,95 @@
 # Contributing to Awesome LangGraph Ecosystem
 
-Contributions are welcome and encouraged! Whether you're fixing a typo, adding a new project, updating documentation, or suggesting improvements, your help is appreciated.
+This repository is curated. Contributions are welcome, but submissions must meet the rules below.
+
+## What We Accept
+
+- Broken link fixes
+- Better descriptions or categorization
+- New categories when they improve discoverability
+- Community and official projects with clear LangChain or LangGraph relevance
+
+## Baseline Rules for New Project Submissions
+
+If you are adding a community project:
+
+- The repository clearly shows real LangChain or LangGraph usage in its README, docs, or code.
+- The repository is public, not archived, and has recent activity.
+- The entry belongs in exactly one section and is placed in alphabetical order within that section.
+- The description is factual, concise, and under 200 characters.
+- The description should explain what the project is. Do not use marketing copy, test counts, funding language, or hype claims.
+- Link to the project root unless a subdirectory is the actual project and the root repo clearly documents it.
+- One project per pull request.
+
+## Minimum Requirements
+
+- Community repositories must have at least 10 GitHub stars.
+- Exceptions are allowed only when there is strong alternative evidence of adoption or quality.
 
 ## How to Contribute
 
 ### Fork the repository
+
 Click the "Fork" button in the top right corner of the GitHub page.
 
-### Create a new branch
-Create a new branch for your changes. This keeps your changes separate from the main project until they're ready to be merged. A good branch name describes the changes you're making, e.g., `add-new-project`, `fix-typo`, or `update-category`.
+### Create a branch
+
+Use a focused branch name such as `add-project-name` or `fix-broken-link`.
 
 ```bash
-git checkout -b add-new-project
+git checkout -b add-project-name
 ```
 
 ### Make your changes
-Edit the `README.md` file following the existing format.
 
-#### Adding a new project:
+Edit `README.md` and follow the surrounding format exactly.
+
+Example row:
+
 ```markdown
-| [username/project-name](https://github.com/username/project-name) | Brief description with key features | ![GitHub stars](https://img.shields.io/github/stars/username/project-name?style=social) |
+| [owner/repo](https://github.com/owner/repo) | Short factual description | ![GitHub stars](https://img.shields.io/github/stars/owner/repo?style=social) |
 ```
 
-**Requirements:**
-- Use correct category and maintain alphabetical order
-- Clear description (under 200 chars)
-- Verify the project uses LangChain/LangGraph
-
 ### Commit your changes
-Commit your changes with a clear and concise message explaining what you've done.
+
+Use a clear commit message.
 
 ```bash
-git commit -m "Add new XYZ project to Data Science category"
+git commit -m "Add project-name to Developer Tools"
 ```
 
 ### Push your branch
-Push your branch to your forked repository.
 
 ```bash
-git push origin add-new-project
+git push origin add-project-name
 ```
 
-### Create a pull request
-Go to the original repository and click the "New pull request" button. Select your forked repository and branch. Provide a clear title and description of your changes in the pull request.
+### Open the pull request
 
-### Review and merge
-Your pull request will be reviewed by the maintainers. They may suggest changes or ask for clarification. Once the review is complete, your changes will be merged into the main project.
+Fill out the PR template completely.
 
-## Quality Standards
+## Formatting Rules
 
-**Project Requirements:**
-- ✅ Active maintenance and LangChain/LangGraph usage
-- ✅ Accurate links and working GitHub badges
-- ✅ Clear, concise descriptions (under 200 chars)
-- ✅ Proper categorization and alphabetical order
-- ❌ No duplicates
+- Use the existing table format for community projects.
+- Use the existing dropdown format for official projects and resources.
+- Preserve capitalization and surrounding section structure.
+- Include the existing GitHub star badge format when the section uses it.
+- Keep descriptions neutral and readable.
 
-**Formatting:**
-- Use table format for community projects
-- Use dropdown format for official projects  
-- Follow existing style and capitalization
-- Include GitHub stars badge: `![GitHub stars](https://img.shields.io/github/stars/user/repo?style=social)`
+## Review Policy
 
-## What to Contribute
+Maintainers may close pull requests when:
 
-- **🆕 New projects** - LangChain/LangGraph applications and tools
-- **🔧 Fixes** - Broken links, outdated descriptions, categorization
-- **📝 Documentation** - Category descriptions, ecosystem overview
-- **🏗️ Structure** - New categories, better organization
+- the project does not meet the minimum requirements
+- the project does not show real LangChain or LangGraph usage
+- the change is in the wrong section or not alphabetized
+- the description reads like marketing copy
+- the PR adds multiple unrelated projects
+- the submission duplicates an existing entry
 
-## Want to Help More?
+## Other Useful Contributions
 
-### 🌍 Multi-Language Support TODO
-We're looking for help translating this awesome list into other languages:
-- **🇪🇸 Spanish** - `README.es.md`
-- **🇫🇷 French** - `README.fr.md`
-- **🇩🇪 German** - `README.de.md`
-- **🇵🇱 Polish** - `README.pl.md`
-- **🇯🇵 Japanese** - `README.ja.md`
-- **🇨🇳 Chinese** - `README.zh.md`
-- **🇰🇷 Korean** - `README.ko.md`
-- **🇷🇺 Russian** - `README.ru.md`
-
-Interested in translating? Open an issue to claim a language!
-
-### 📝 Other Ways to Contribute
-- **📊 Add missing categories** - Suggest new domains we haven't covered
-- **🔍 Quality review** - Help verify links and project descriptions
-- **📈 Weekly updates** - Monitor new LangGraph/LangChain projects
-- **🏷️ Organize tag systems** - Create consistent tagging/labeling for easier project discovery
-
-
-
-**Thank you for contributing!** 🦜🔗
+- Verify links and badges
+- Improve category placement
+- Suggest structural cleanups
+- Help maintain translations and supporting docs
