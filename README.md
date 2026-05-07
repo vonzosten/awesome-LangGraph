@@ -883,6 +883,8 @@ Browse the full template catalog here:
 
 <div align="center">
 
+| [flik2002/openclaw-monitor](https://github.com/flik2002/openclaw-monitor) | Real-time monitoring dashboard for OpenClaw agents with token tracking and session management | ![GitHub stars](https://img.shields.io/github/stars/flik2002/openclaw-monitor?style=social) |
+
 ## 🌟 Community Projects
 
 </div>
