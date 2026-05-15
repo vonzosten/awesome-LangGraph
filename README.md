@@ -49,6 +49,7 @@ Contributions welcome—see the [Contributing Guide](CONTRIBUTING.md).
   - [🤖 Robotics \& Embodied AI](#-robotics--embodied-ai)
   - [📚 RAG \& Document Processing](#-rag--document-processing)
   - [🔬 Research Agents](#-research-agents)
+  - [🛠️ Cybersecurity](#-cybersecurity)
   - [🌍 Sustainability](#-sustainability)
   - [📋 Templates \& Starters](#-templates--starters)
   - [🏢 Workplace \& Productivity](#-workplace--productivity)
