@@ -1176,6 +1176,19 @@ No active community listings currently.
 
 <div align="center">
 
+### 🛠️ Cybersecurity
+
+</div>
+
+*Security testing, red-team automation, adversary emulation, and defensive validation agents*
+
+| Project | Description | GitHub Stars |
+|---|---|---|
+| [PurpleAILAB/Decepticon](https://github.com/PurpleAILAB/Decepticon) | Autonomous red-team agent for authorized engagements, using LangGraph orchestration, sandboxed Kali tooling, OPPLAN/RoE workflow, and attack-graph memory. | ![GitHub stars](https://img.shields.io/github/stars/PurpleAILAB/Decepticon?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/PurpleAILAB/Decepticon) |
+
+
+<div align="center">
+
 ### 🌍 Security & Governance
 
 </div>
