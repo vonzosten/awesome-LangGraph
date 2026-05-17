@@ -1424,3 +1424,5 @@ We welcome additions and fixes! Please read the **[Contributing Guide](CONTRIBUT
 </div>
 
 Special thanks to the [@langchain-ai](https://github.com/langchain-ai) team for building an outstanding framework and ecosystem that enables developers to create powerful AI applications.
+
+- [OpenClaw Monitor](https://github.com/flik2002/openclaw-monitor) — Real-time monitoring dashboard for OpenClaw AI agents: token usage, session tracking, 7-day trends, WebSocket updates
