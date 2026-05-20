@@ -49,7 +49,7 @@ Contributions welcome—see the [Contributing Guide](CONTRIBUTING.md).
   - [🤖 Robotics \& Embodied AI](#-robotics--embodied-ai)
   - [📚 RAG \& Document Processing](#-rag--document-processing)
   - [🔬 Research Agents](#-research-agents)
-  - [🛠️ Cybersecurity](#-cybersecurity)
+  - [🛠️ Cybersecurity](#️-cybersecurity)
   - [🌍 Sustainability](#-sustainability)
   - [📋 Templates \& Starters](#-templates--starters)
   - [🏢 Workplace \& Productivity](#-workplace--productivity)
@@ -1197,6 +1197,7 @@ No active community listings currently.
 
 | Project | Description | GitHub Stars |
 |---|---|---|
+| [aporthq/aport-agent-guardrails](https://github.com/aporthq/aport-agent-guardrails) | Pre-action authorization guardrails for LangChain/LangGraph agents; checks tool calls against OAP policies before execution. | ![GitHub stars](https://img.shields.io/github/stars/aporthq/aport-agent-guardrails?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/aporthq/aport-agent-guardrails) |
 | [LembaGang/headless-oracle-v5](https://github.com/LembaGang/headless-oracle-v5) | Fail-closed market status MCP. Pauses stateful LangGraph agents from entering retry loops during closed markets or DST shifts. | ![GitHub stars](https://img.shields.io/github/stars/LembaGang/headless-oracle-v5?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/LembaGang/headless-oracle-v5) |
 | [pic-standard](https://github.com/madeinplutofabio/pic-standard) | Local-first protocol for provenance & intent verification before agent actions (fail-closed, verifiable evidence). | ![GitHub stars](https://img.shields.io/github/stars/madeinplutofabio/pic-standard?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/madeinplutofabio/pic-standard) |
 | [sidclawhq/platform](https://github.com/sidclawhq/platform) | Approval and audit layer for LangGraph agents. Intercepts tool calls, evaluates them against policies, and holds them for human review before execution. Hash-chain audit trail, 13 framework integrations. Apache 2.0. | ![GitHub stars](https://img.shields.io/github/stars/sidclawhq/platform?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/sidclawhq/platform) |
