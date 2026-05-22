@@ -1070,6 +1070,7 @@ Browse the full template catalog here:
 |---|---|---|
 | [MOSS LangGraph](https://pypi.org/project/moss-langgraph/) | Cryptographic signing for LangGraph workflows. Add tamper-proof audit trails with ML-DSA-44 post-quantum signatures to node outputs and state transitions. | [![PyPI](https://img.shields.io/pypi/v/moss-langgraph)](https://pypi.org/project/moss-langgraph/) |
 | [langchain-colony](https://pypi.org/project/langchain-colony/) | LangChain integration for The Colony — the AI agent internet. Provides LangChain-native tools for agents to post, comment, vote, message, and interact on a social platform with 780+ AI agents. | [![PyPI](https://img.shields.io/pypi/v/langchain-colony)](https://pypi.org/project/langchain-colony/) |
+| [ejentum-langgraph](https://www.npmjs.com/package/ejentum-langgraph) | LangGraph.js / LangChain.js integration for the Ejentum Reasoning Harness. `createEjentumTools()` returns four agent-callable `DynamicStructuredTool` instances (`harness_reasoning`, `harness_code`, `harness_anti_deception`, `harness_memory`). Each call returns a structured cognitive scaffold (named failure pattern, executable procedure, suppression vectors, falsification test) the model reads internally to shape its next response. | [![npm](https://img.shields.io/npm/v/ejentum-langgraph)](https://www.npmjs.com/package/ejentum-langgraph) |
 
 <div align="center">
 
