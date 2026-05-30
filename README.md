@@ -1329,6 +1329,7 @@ No active community listings currently.
 | Name | Description |
 |---|---|
 | [RAG Techniques](https://github.com/NirDiamant/RAG_Techniques) | Several RAG implementations and step-by-step walkthroughs. |
+| [Agent Memory Techniques](https://github.com/NirDiamant/Agent_Memory_Techniques) | 30 notebooks on agent memory: vector stores, knowledge graphs, episodic and semantic memory, Mem0, MemGPT/Letta, Zep, and Graphiti. |
 
 </details>
 
