@@ -974,6 +974,7 @@ Browse the full template catalog here:
 | [KodyKendall/LlamaBot](https://github.com/KodyKendall/LlamaBot) | Web development coding agent for creating HTML/CSS/JavaScript projects and business landing pages | ![GitHub stars](https://img.shields.io/github/stars/KodyKendall/LlamaBot?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/KodyKendall/LlamaBot) |
 | [AbhinavTheDev/coding-agent](https://github.com/AbhinavTheDev/coding-agent) | Development tool that uses LangGraph agents to aid coding workflow with natural language | ![GitHub stars](https://img.shields.io/github/stars/AbhinavTheDev/coding-agent?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/AbhinavTheDev/coding-agent) |
 | [langtalks/swe-agent](https://github.com/langtalks/swe-agent) | Software engineering multi-agent system with researcher and developer agents for automated code implementation | ![GitHub stars](https://img.shields.io/github/stars/langtalks/swe-agent?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/langtalks/swe-agent) |
+| [RavSinghChandan/03-ai-agents](https://github.com/RavSinghChandan/03-ai-agents) | Universal Agent platform with LangGraph ReAct + multi-agent orchestration — YAML-configured personas, per-agent lock/unlock, tool use, and memory | ![GitHub stars](https://img.shields.io/github/stars/RavSinghChandan/03-ai-agents?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/RavSinghChandan/03-ai-agents) |
 
 <div align="center">
 
@@ -1140,6 +1141,7 @@ No active community listings currently.
 | [bRAGAI/bRAG-langchain](https://github.com/bRAGAI/bRAG-langchain) | Tutorial series on RAG from basics to advanced | ![GitHub stars](https://img.shields.io/github/stars/bRAGAI/bRAG-langchain?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/bRAGAI/bRAG-langchain) |
 | [catio-tech/graphqa](https://github.com/catio-tech/graphqa) | Natural language graph analysis framework for querying graphs without complex query languages | ![GitHub stars](https://img.shields.io/github/stars/catio-tech/graphqa?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/catio-tech/graphqa) |
 | [zamalali/DeepGit](https://github.com/zamalali/DeepGit) | Agentic workflow for intelligent GitHub repo discovery with hybrid retrieval and re-ranking | ![GitHub stars](https://img.shields.io/github/stars/zamalali/DeepGit?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/zamalali/DeepGit) |
+| [RavSinghChandan/01-bench-resource-optimizer](https://github.com/RavSinghChandan/01-bench-resource-optimizer) | Production RAG chatbot with LangChain + FAISS + DeepSeek — hybrid search, HyDE, CRAG quality scoring, semantic cache (L1+L2), and SSE streaming | ![GitHub stars](https://img.shields.io/github/stars/RavSinghChandan/01-bench-resource-optimizer?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/RavSinghChandan/01-bench-resource-optimizer) |
 
 
 <div align="center">
