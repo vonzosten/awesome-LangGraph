@@ -1421,3 +1421,7 @@ We welcome additions and fixes! Please read the **[Contributing Guide](CONTRIBUT
 </div>
 
 Special thanks to the [@langchain-ai](https://github.com/langchain-ai) team for building an outstanding framework and ecosystem that enables developers to create powerful AI applications.
+
+## Directories
+
+- [OpenRuna workflows hub](https://www.openruna.com/hubs/ai-workflows) — Agentic workflows, n8n templates, and LangGraph-compatible automation resources.
