@@ -1299,6 +1299,7 @@ No active community listings currently.
 
 ### Community Courses
 - **[LangGraph — Develop LLM-Powered AI Agents (Udemy)](https://www.udemy.com/course/langgraph/)** — Practical LangGraph agent patterns. Instructor: [emarco177](https://github.com/emarco177).
+- **[Context Kit](https://github.com/JDDavenport/context-kit)** — Personal Context Artifacts: 4 Markdown templates + 5 Claude Code skills for giving AI agents deep personal context. MIT, one-command install.
 
 ### 📖 Additional Resources
 
