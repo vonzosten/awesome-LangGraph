@@ -523,6 +523,7 @@ Browse the full template catalog here:
 **Persistence backends for LangGraph state.** Save and resume agent state across interactions using in-memory, SQL, Redis, MongoDB, cloud, and other checkpoint stores.
 
 - **Python**: [Browse providers](https://docs.langchain.com/oss/python/integrations/checkpointers)
+- [langgraph-checkpoint-grafomem](https://github.com/GNS-Foundation/grafomem) - Governed, portable checkpoints with cryptographic state-erasure receipts.
 - **JavaScript**: -
 
 </details>
