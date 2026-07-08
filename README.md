@@ -947,6 +947,7 @@ Browse the full template catalog here:
 |---|---|---|
 | [GaiZhenbiao/ChuanhuChatGPT](https://github.com/GaiZhenbiao/ChuanhuChatGPT) | GUI for ChatGPT/LLMs with agent support, web search, and knowledge base features | ![GitHub stars](https://img.shields.io/github/stars/GaiZhenbiao/ChuanhuChatGPT?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/GaiZhenbiao/ChuanhuChatGPT) |
 | [CopilotKit/open-multi-agent-canvas](https://github.com/CopilotKit/open-multi-agent-canvas) | Multi-agent chat interface with travel/research examples and MCP servers | ![GitHub stars](https://img.shields.io/github/stars/CopilotKit/open-multi-agent-canvas?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/CopilotKit/open-multi-agent-canvas) |
+| [dkedar7/langstage](https://github.com/dkedar7/langstage) | Self-hosted, MIT chat UI with file browser, canvas & human-in-the-loop for any LangGraph agent; one spec also runs on CLI, JupyterLab & VS Code | ![GitHub stars](https://img.shields.io/github/stars/dkedar7/langstage?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/dkedar7/langstage) |
 | [teddynote-lab/LangConnect-Client](https://github.com/teddynote-lab/LangConnect-Client) | Streamlit RAG client with document management, semantic/hybrid search, and MCP integration | ![GitHub stars](https://img.shields.io/github/stars/teddynote-lab/LangConnect-Client?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/teddynote-lab/LangConnect-Client) |
 
 <div align="center">
