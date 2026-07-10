@@ -1330,6 +1330,7 @@ No active community listings currently.
 | Name | Description |
 |---|---|
 | [RAG Techniques](https://github.com/NirDiamant/RAG_Techniques) | Several RAG implementations and step-by-step walkthroughs. |
+| [Add live web search to a LangGraph agent](https://superhighway.walls.sh/guides/web-search-langgraph) | Step-by-step guide to adding live web search to a LangGraph agent: `MultiServerMCPClient` for all five tools with autonomous x402 USDC payments, or `@tool`-decorated functions over the REST API with a free key. |
 | [Agent Memory Techniques](https://github.com/NirDiamant/Agent_Memory_Techniques) | 30 notebooks on agent memory: vector stores, knowledge graphs, episodic and semantic memory, Mem0, MemGPT/Letta, Zep, and Graphiti. |
 
 </details>
