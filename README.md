@@ -933,6 +933,7 @@ Browse the full template catalog here:
 | Project | Description | GitHub Stars |
 |---|---|---|
 | [oba2311/analyst_agent](https://github.com/oba2311/analyst_agent) | Marketing analysis agent with trend/sentiment analysis and report generation | ![GitHub stars](https://img.shields.io/github/stars/oba2311/analyst_agent?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/oba2311/analyst_agent) |
+| [wanikua/OpenBusiness](https://github.com/wanikua/OpenBusiness) | Evidence-first business model research CLI; runs LangGraph analyst agents for GTM, unit economics, and moat, labeling every claim verified, inferred, or missing | ![GitHub stars](https://img.shields.io/github/stars/wanikua/OpenBusiness?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/wanikua/OpenBusiness) |
 
 
 <div align="center">
