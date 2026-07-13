@@ -1176,6 +1176,10 @@ No active community listings currently.
 
 ### 🛠️ Cybersecurity
 
+| [ElamOlame31/agentgate-public](https://github.com/ElamOlame31/agentgate-public) | Pre-execution authorization PDP for LangGraph agents — intercepts every tool call before it fires, scores trust across 4 dimensions, detects 24h kill chain patterns like BULK_READ_THEN_EXFIL. MIT licensed, drop-in with LangGraph's ToolNode. | ![GitHub stars](https://img.shields.io/github/stars/ElamOlame31/agentgate-public?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/ElamOlame31/agentgate-public) |
+
+https://www.tryagentgate.com/
+
 </div>
 
 *Security testing, red-team automation, adversary emulation, and defensive validation agents*
@@ -1188,6 +1192,10 @@ No active community listings currently.
 <div align="center">
 
 ### 🌍 Security & Governance
+
+| [ElamOlame31/agentgate-public](https://github.com/ElamOlame31/agentgate-public) | Pre-execution authorization PDP for LangGraph agents — intercepts every tool call before it fires, scores trust across 4 dimensions, detects 24h kill chain patterns like BULK_READ_THEN_EXFIL. MIT licensed, drop-in with LangGraph's ToolNode. | ![GitHub stars](https://img.shields.io/github/stars/ElamOlame31/agentgate-public?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/ElamOlame31/agentgate-public) |
+
+https://www.tryagentgate.com/
 
 </div>
 
