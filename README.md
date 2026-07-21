@@ -1356,6 +1356,7 @@ No active community listings currently.
 | [Komodo Health — Enterprise Assistant](https://www.komodohealth.com/perspectives/new-gen-ai-assistant-empowers-the-enterprise/) | Enterprise assistant enabling domain workflows in healthcare. |
 | [Cisco Outshift — DevOps Agent via REST](https://outshift.cisco.com/blog/build-react-agent-application-for-devops-tasks-using-rest-apis) | Building a React agent app for DevOps tasks using REST APIs. |
 | [Elastic — Security GenAI Features](https://www.elastic.co/blog/elastic-security-generative-ai-features) | Generative AI features for security workflows. |
+| [Kelriva AI — Why AI Agent Evaluation Fails Silently](https://kelriva.ai/insights/ai-agent-evaluation-hidden-failures) | Why a clean conversation log doesn't mean a working agent, and the offline/online eval layers used to catch silent failures in production LangGraph pipelines. |
 
 </details>
 
