@@ -1142,6 +1142,7 @@ No active community listings currently.
 | [bRAGAI/bRAG-langchain](https://github.com/bRAGAI/bRAG-langchain) | Tutorial series on RAG from basics to advanced | ![GitHub stars](https://img.shields.io/github/stars/bRAGAI/bRAG-langchain?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/bRAGAI/bRAG-langchain) |
 | [catio-tech/graphqa](https://github.com/catio-tech/graphqa) | Natural language graph analysis framework for querying graphs without complex query languages | ![GitHub stars](https://img.shields.io/github/stars/catio-tech/graphqa?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/catio-tech/graphqa) |
 | [zamalali/DeepGit](https://github.com/zamalali/DeepGit) | Agentic workflow for intelligent GitHub repo discovery with hybrid retrieval and re-ranking | ![GitHub stars](https://img.shields.io/github/stars/zamalali/DeepGit?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/zamalali/DeepGit) |
+| [rushabh2390/simple_document_ai_agent](https://github.com/rushabh2390/simple_document_ai_agent) | A local, privacy-focused AI agent built with LangGraph and Ollama that processes CSV, Excel, PDF, Markdown, and text files for document analysis and Q&A. | ![GitHub stars](https://img.shields.io/github/stars/rushabh2390/simple_document_ai_agent?style=social) |
 
 
 <div align="center">
