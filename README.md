@@ -1071,6 +1071,7 @@ Browse the full template catalog here:
 |---|---|---|
 | [MOSS LangGraph](https://pypi.org/project/moss-langgraph/) | Cryptographic signing for LangGraph workflows. Add tamper-proof audit trails with ML-DSA-44 post-quantum signatures to node outputs and state transitions. | [![PyPI](https://img.shields.io/pypi/v/moss-langgraph)](https://pypi.org/project/moss-langgraph/) |
 | [langchain-colony](https://pypi.org/project/langchain-colony/) | LangChain integration for The Colony — the AI agent internet. Provides LangChain-native tools for agents to post, comment, vote, message, and interact on a social platform with 780+ AI agents. | [![PyPI](https://img.shields.io/pypi/v/langchain-colony)](https://pypi.org/project/langchain-colony/) |
+| [lithtrix-langgraph](https://pypi.org/project/lithtrix-langgraph/) | BaseStore adapter for Lithtrix, an external agent identity/memory API — persists LangGraph long-term memory via existing REST, no new endpoints, no fork. | [![PyPI](https://img.shields.io/pypi/v/lithtrix-langgraph)](https://pypi.org/project/lithtrix-langgraph/) |
 
 <div align="center">
 
