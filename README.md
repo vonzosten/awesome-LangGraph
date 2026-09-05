@@ -1071,7 +1071,7 @@ Browse the full template catalog here:
 |---|---|---|
 | [MOSS LangGraph](https://pypi.org/project/moss-langgraph/) | Cryptographic signing for LangGraph workflows. Add tamper-proof audit trails with ML-DSA-44 post-quantum signatures to node outputs and state transitions. | [![PyPI](https://img.shields.io/pypi/v/moss-langgraph)](https://pypi.org/project/moss-langgraph/) |
 | [langchain-colony](https://pypi.org/project/langchain-colony/) | LangChain integration for The Colony — the AI agent internet. Provides LangChain-native tools for agents to post, comment, vote, message, and interact on a social platform with 780+ AI agents. | [![PyPI](https://img.shields.io/pypi/v/langchain-colony)](https://pypi.org/project/langchain-colony/) |
-| [saihm-langgraph](https://pypi.org/project/saihm-langgraph/) | SAIHM-backed LangGraph `BaseStore`: memory your users own — portable across models, shareable across separated agents (one source of truth for swarms/fleets). `pip install saihm-langgraph` | [![PyPI](https://img.shields.io/pypi/v/saihm-langgraph)](https://pypi.org/project/saihm-langgraph/) |
+| [saihm-adapters](https://pypi.org/project/saihm-adapters/) | SAIHM-backed LangGraph `BaseStore` for long-term, cross-thread memory: one sovereign, encrypted store the user owns, with erasure you can prove (GDPR Art. 17). `pip install saihm-adapters` | [![PyPI](https://img.shields.io/pypi/v/saihm-adapters)](https://pypi.org/project/saihm-adapters/) |
 
 <div align="center">
 
