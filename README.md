@@ -989,6 +989,7 @@ Browse the full template catalog here:
 |---|---|---|
 | [kargarisaac/telegram_link_summarizer_agent](https://github.com/kargarisaac/telegram_link_summarizer_agent) | Telegram bot that summarizes shared links using LangGraph and multi-tool extraction | ![GitHub stars](https://img.shields.io/github/stars/kargarisaac/telegram_link_summarizer_agent?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/kargarisaac/telegram_link_summarizer_agent) |
 | [raminmohammadi/ai-agent-smart-assist](https://github.com/raminmohammadi/ai-agent-smart-assist) | Knowledge base + classification + Q&A for support teams (FAISS + RAG) | ![GitHub stars](https://img.shields.io/github/stars/raminmohammadi/ai-agent-smart-assist?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/raminmohammadi/ai-agent-smart-assist) |
+| [yerdaulet-damir/langgraph-sales-agent](https://github.com/yerdaulet-damir/langgraph-sales-agent) | Multi-tenant LangGraph sales agent with isolated business configs, catalogs and LLMs across Telegram, Instagram, WhatsApp and web | ![GitHub stars](https://img.shields.io/github/stars/yerdaulet-damir/langgraph-sales-agent?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/yerdaulet-damir/langgraph-sales-agent) |
 
 
 <div align="center">
