@@ -902,8 +902,9 @@ Browse the full template catalog here:
 
 | Project | Description | GitHub Stars |
 |---------|-------------|--------------|
-| [souvikmajumder26/Multi-Agent-Medical-Assistant](https://github.com/souvikmajumder26/Multi-Agent-Medical-Assistant) | AI-powered multi-agent system for medical diagnosis, research, and patient interaction, featuring LLMs, RAG, and human-in-the-loop validation | ![GitHub stars](https://img.shields.io/github/stars/souvikmajumder26/Multi-Agent-Medical-Assistant?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/souvikmajumder26/Multi-Agent-Medical-Assistant) |
 | [ArcInstitute/SRAgent](https://github.com/ArcInstitute/SRAgent) | Multi-agent framework for automating genomic research and RNA sequencing workflows from scientific databases | ![GitHub stars](https://img.shields.io/github/stars/ArcInstitute/SRAgent?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/ArcInstitute/SRAgent) |
+| [pavanbadempet/AI-Healthcare-System](https://github.com/pavanbadempet/AI-Healthcare-System) | Open-source HIPAA clinical AI platform featuring LangGraph multi-agent diagnostic RAG, digital twins, and FHIR/OMOP lakehouse pipelines | ![GitHub stars](https://img.shields.io/github/stars/pavanbadempet/AI-Healthcare-System?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/pavanbadempet/AI-Healthcare-System) |
+| [souvikmajumder26/Multi-Agent-Medical-Assistant](https://github.com/souvikmajumder26/Multi-Agent-Medical-Assistant) | AI-powered multi-agent system for medical diagnosis, research, and patient interaction, featuring LLMs, RAG, and human-in-the-loop validation | ![GitHub stars](https://img.shields.io/github/stars/souvikmajumder26/Multi-Agent-Medical-Assistant?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/souvikmajumder26/Multi-Agent-Medical-Assistant) |
 
 <div align="center">
 
