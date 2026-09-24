@@ -988,6 +988,7 @@ Browse the full template catalog here:
 | Project | Description | GitHub Stars |
 |---|---|---|
 | [kargarisaac/telegram_link_summarizer_agent](https://github.com/kargarisaac/telegram_link_summarizer_agent) | Telegram bot that summarizes shared links using LangGraph and multi-tool extraction | ![GitHub stars](https://img.shields.io/github/stars/kargarisaac/telegram_link_summarizer_agent?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/kargarisaac/telegram_link_summarizer_agent) |
+| [negativexq/agentic-customer-service-platform](https://github.com/negativexq/agentic-customer-service-platform) | LangGraph customer-support workflows with policy-gated tools, confirmation and revalidation, idempotent actions, and operator observability. | ![GitHub stars](https://img.shields.io/github/stars/negativexq/agentic-customer-service-platform?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/negativexq/agentic-customer-service-platform) |
 | [raminmohammadi/ai-agent-smart-assist](https://github.com/raminmohammadi/ai-agent-smart-assist) | Knowledge base + classification + Q&A for support teams (FAISS + RAG) | ![GitHub stars](https://img.shields.io/github/stars/raminmohammadi/ai-agent-smart-assist?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/raminmohammadi/ai-agent-smart-assist) |
 
 
