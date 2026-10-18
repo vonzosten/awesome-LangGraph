@@ -932,6 +932,7 @@ Browse the full template catalog here:
 
 | Project | Description | GitHub Stars |
 |---|---|---|
+| [azmartone67/dchub-mcp-server](https://github.com/azmartone67/dchub-mcp-server) | Live data-center site-selection data for LangChain/LangGraph agents: StructuredTools plus a remote MCP server, with a daily grid-power score across 300+ markets | ![GitHub stars](https://img.shields.io/github/stars/azmartone67/dchub-mcp-server?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/azmartone67/dchub-mcp-server) |
 | [oba2311/analyst_agent](https://github.com/oba2311/analyst_agent) | Marketing analysis agent with trend/sentiment analysis and report generation | ![GitHub stars](https://img.shields.io/github/stars/oba2311/analyst_agent?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/oba2311/analyst_agent) |
 
 
