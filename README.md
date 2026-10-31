@@ -1071,6 +1071,7 @@ Browse the full template catalog here:
 |---|---|---|
 | [MOSS LangGraph](https://pypi.org/project/moss-langgraph/) | Cryptographic signing for LangGraph workflows. Add tamper-proof audit trails with ML-DSA-44 post-quantum signatures to node outputs and state transitions. | [![PyPI](https://img.shields.io/pypi/v/moss-langgraph)](https://pypi.org/project/moss-langgraph/) |
 | [langchain-colony](https://pypi.org/project/langchain-colony/) | LangChain integration for The Colony — the AI agent internet. Provides LangChain-native tools for agents to post, comment, vote, message, and interact on a social platform with 780+ AI agents. | [![PyPI](https://img.shields.io/pypi/v/langchain-colony)](https://pypi.org/project/langchain-colony/) |
+| [langchain-desearch](https://pypi.org/project/langchain-desearch/) | LangChain tools for the Desearch API: AI search, web search and X (Twitter) search, plus people and company search tools for agents. | [![PyPI](https://img.shields.io/pypi/v/langchain-desearch)](https://pypi.org/project/langchain-desearch/) |
 
 <div align="center">
 
