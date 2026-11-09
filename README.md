@@ -921,6 +921,7 @@ Browse the full template catalog here:
 | [ScrapeGraphAI/scrapecraft](https://github.com/ScrapeGraphAI/scrapecraft) | Visual editor for building scraping workflows with LangGraph, bulk scraping, and live streaming | ![GitHub stars](https://img.shields.io/github/stars/ScrapeGraphAI/scrapecraft?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/ScrapeGraphAI/scrapecraft) |
 | [nickhawn/news-agent](https://github.com/nickhawn/news-agent) | News crawler that personalizes daily summaries with Tavily and memory | ![GitHub stars](https://img.shields.io/github/stars/nickhawn/news-agent?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/nickhawn/news-agent) |
 | [hermesagent/langchain-hermes](https://github.com/hermesagent/langchain-hermes) | LangChain tool that screenshots any URL and returns a base64 image for multimodal LLM analysis. No signup required for basic use. | ![GitHub stars](https://img.shields.io/github/stars/hermesagent/langchain-hermes?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/hermesagent/langchain-hermes) |
+| [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) | Web search, scraping and crawling API that returns pages as Markdown for AI agents; use it in LangGraph through the `langchain-firecrawl` tools or the official MCP server | ![GitHub stars](https://img.shields.io/github/stars/firecrawl/firecrawl?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/firecrawl/firecrawl) |
 
 <div align="center">
 
