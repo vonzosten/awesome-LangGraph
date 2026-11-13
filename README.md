@@ -1183,6 +1183,8 @@ No active community listings currently.
 
 | Project | Description | GitHub Stars |
 |---|---|---|
+| [mjha-arya/DOC-foundry](https://github.com/mjha-arya/DOC-foundry) | Blue/Red/referee LangGraph agents author Sigma rules, attack them, and prove coverage with a deterministic FP/FN verdict and proof bundle. | ![GitHub stars](https://img.shields.io/github/stars/mjha-arya/DOC-foundry?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/mjha-arya/DOC-foundry) |
+| [mjha-arya/threat-intel-briefing-agent](https://github.com/mjha-arya/threat-intel-briefing-agent) | Daily top-N cyber-threat brief from CERT/CSIRT/OSINT. LangGraph + FastMCP + Pydantic, capability gate, human-in-the-loop before publish. | ![GitHub stars](https://img.shields.io/github/stars/mjha-arya/threat-intel-briefing-agent?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/mjha-arya/threat-intel-briefing-agent) |
 | [PurpleAILAB/Decepticon](https://github.com/PurpleAILAB/Decepticon) | Autonomous red-team agent for authorized engagements, using LangGraph orchestration, sandboxed Kali tooling, OPPLAN/RoE workflow, and attack-graph memory. | ![GitHub stars](https://img.shields.io/github/stars/PurpleAILAB/Decepticon?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/PurpleAILAB/Decepticon) |
 
 
