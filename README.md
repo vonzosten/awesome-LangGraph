@@ -1069,6 +1069,7 @@ Browse the full template catalog here:
 
 | Package | Description | Registry |
 |---|---|---|
+| [kith](https://pypi.org/project/kith-ai/) | Relationship memory for agent graphs: observe_node() records delegation outcomes, then the supervisor routes by derived trust/reliability instead of re-picking failed workers. SQLite, no LLM calls. | [![PyPI](https://img.shields.io/pypi/v/kith-ai)](https://pypi.org/project/kith-ai/) |
 | [MOSS LangGraph](https://pypi.org/project/moss-langgraph/) | Cryptographic signing for LangGraph workflows. Add tamper-proof audit trails with ML-DSA-44 post-quantum signatures to node outputs and state transitions. | [![PyPI](https://img.shields.io/pypi/v/moss-langgraph)](https://pypi.org/project/moss-langgraph/) |
 | [langchain-colony](https://pypi.org/project/langchain-colony/) | LangChain integration for The Colony — the AI agent internet. Provides LangChain-native tools for agents to post, comment, vote, message, and interact on a social platform with 780+ AI agents. | [![PyPI](https://img.shields.io/pypi/v/langchain-colony)](https://pypi.org/project/langchain-colony/) |
 
