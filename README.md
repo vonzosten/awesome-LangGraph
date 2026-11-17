@@ -976,6 +976,7 @@ Browse the full template catalog here:
 | [KodyKendall/LlamaBot](https://github.com/KodyKendall/LlamaBot) | Web development coding agent for creating HTML/CSS/JavaScript projects and business landing pages | ![GitHub stars](https://img.shields.io/github/stars/KodyKendall/LlamaBot?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/KodyKendall/LlamaBot) |
 | [AbhinavTheDev/coding-agent](https://github.com/AbhinavTheDev/coding-agent) | Development tool that uses LangGraph agents to aid coding workflow with natural language | ![GitHub stars](https://img.shields.io/github/stars/AbhinavTheDev/coding-agent?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/AbhinavTheDev/coding-agent) |
 | [langtalks/swe-agent](https://github.com/langtalks/swe-agent) | Software engineering multi-agent system with researcher and developer agents for automated code implementation | ![GitHub stars](https://img.shields.io/github/stars/langtalks/swe-agent?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/langtalks/swe-agent) |
+| [Kernel-Hunter/vesper](https://github.com/Kernel-Hunter/vesper) | Terminal and desktop coding agent on a LangGraph loop: plans, edits, runs your tests, undoes, 17 providers or offline with Ollama | ![GitHub stars](https://img.shields.io/github/stars/Kernel-Hunter/vesper?style=social) |
 
 <div align="center">
 
