@@ -1143,6 +1143,7 @@ No active community listings currently.
 | [bRAGAI/bRAG-langchain](https://github.com/bRAGAI/bRAG-langchain) | Tutorial series on RAG from basics to advanced | ![GitHub stars](https://img.shields.io/github/stars/bRAGAI/bRAG-langchain?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/bRAGAI/bRAG-langchain) |
 | [catio-tech/graphqa](https://github.com/catio-tech/graphqa) | Natural language graph analysis framework for querying graphs without complex query languages | ![GitHub stars](https://img.shields.io/github/stars/catio-tech/graphqa?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/catio-tech/graphqa) |
 | [zamalali/DeepGit](https://github.com/zamalali/DeepGit) | Agentic workflow for intelligent GitHub repo discovery with hybrid retrieval and re-ranking | ![GitHub stars](https://img.shields.io/github/stars/zamalali/DeepGit?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/zamalali/DeepGit) |
+| [Srameshgitnow/AI-DocumentIntelligence](https://github.com/Srameshgitnow/AI-DocumentIntelligence) | Upload PDF, DOCX or TXT files and ask questions with RAG: LangChain, PostgreSQL/pgvector, React/Node frontend and backend, switchable OpenAI/Claude LLM | ![GitHub stars](https://img.shields.io/github/stars/Srameshgitnow/AI-DocumentIntelligence?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/Srameshgitnow/AI-DocumentIntelligence) |
 
 
 <div align="center">
