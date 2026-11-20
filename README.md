@@ -973,8 +973,9 @@ Browse the full template catalog here:
 
 | Project | Description | GitHub Stars |
 |---------|-------------|--------------|
-| [KodyKendall/LlamaBot](https://github.com/KodyKendall/LlamaBot) | Web development coding agent for creating HTML/CSS/JavaScript projects and business landing pages | ![GitHub stars](https://img.shields.io/github/stars/KodyKendall/LlamaBot?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/KodyKendall/LlamaBot) |
 | [AbhinavTheDev/coding-agent](https://github.com/AbhinavTheDev/coding-agent) | Development tool that uses LangGraph agents to aid coding workflow with natural language | ![GitHub stars](https://img.shields.io/github/stars/AbhinavTheDev/coding-agent?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/AbhinavTheDev/coding-agent) |
+| [iago511/Self-Healing-Polyglot-Schema-Code-Bifurcation-System](https://github.com/iago511/Self-Healing-Polyglot-Schema-Code-Bifurcation-System) | Experimental LangGraph workflow that detects PostgreSQL schema drift, proposes Python code repairs, runs tests, and requires human approval before a Git commit. | ![GitHub stars](https://img.shields.io/github/stars/iago511/Self-Healing-Polyglot-Schema-Code-Bifurcation-System?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/iago511/Self-Healing-Polyglot-Schema-Code-Bifurcation-System) |
+| [KodyKendall/LlamaBot](https://github.com/KodyKendall/LlamaBot) | Web development coding agent for creating HTML/CSS/JavaScript projects and business landing pages | ![GitHub stars](https://img.shields.io/github/stars/KodyKendall/LlamaBot?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/KodyKendall/LlamaBot) |
 | [langtalks/swe-agent](https://github.com/langtalks/swe-agent) | Software engineering multi-agent system with researcher and developer agents for automated code implementation | ![GitHub stars](https://img.shields.io/github/stars/langtalks/swe-agent?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/langtalks/swe-agent) |
 
 <div align="center">
