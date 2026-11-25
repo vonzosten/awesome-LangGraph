@@ -915,6 +915,7 @@ Browse the full template catalog here:
 
 | Project | Description | GitHub Stars |
 |---|---|---|
+| [SandeepAi369/Agent-first-browse](https://github.com/SandeepAi369/Agent-first-browse) | LangGraph-orchestrated browser agent and MCP server built on Playwright with adaptive DOM settle, occlusion pruning, delta snapshots, and stale-ref rebinding | ![GitHub stars](https://img.shields.io/github/stars/SandeepAi369/Agent-first-browse?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/SandeepAi369/Agent-first-browse) |
 | [esinecan/agentic-ai-browser](https://github.com/esinecan/agentic-ai-browser) | Web automation agent with behavioral caching, DOM fidelity, and success pattern recording | ![GitHub stars](https://img.shields.io/github/stars/esinecan/agentic-ai-browser?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/esinecan/agentic-ai-browser) |
 | [browser-use/browser-use](https://github.com/browser-use/browser-use) | Library for AI agents to control websites and automate tasks | ![GitHub stars](https://img.shields.io/github/stars/browser-use/browser-use?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/browser-use/browser-use) |
 | [stanford-mast/blast](https://github.com/stanford-mast/blast) | High-performance serving engine for browser-augmented LLM applications with auto-scaling and OpenAI-compatible API | ![GitHub stars](https://img.shields.io/github/stars/stanford-mast/blast?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/stanford-mast/blast) |
