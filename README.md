@@ -932,6 +932,7 @@ Browse the full template catalog here:
 
 | Project | Description | GitHub Stars |
 |---|---|---|
+| [Dealport-HQ/dealport-starters](https://github.com/Dealport-HQ/dealport-starters) | Multi-agent US private-company, 50-state parcel, and LMM public-filing origination starters with guarded LangChain/LangGraph tools and 47 MCP tools | ![GitHub stars](https://img.shields.io/github/stars/Dealport-HQ/dealport-starters?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/Dealport-HQ/dealport-starters) |
 | [oba2311/analyst_agent](https://github.com/oba2311/analyst_agent) | Marketing analysis agent with trend/sentiment analysis and report generation | ![GitHub stars](https://img.shields.io/github/stars/oba2311/analyst_agent?style=social)<br>![Last commit](https://img.shields.io/github/last-commit/oba2311/analyst_agent) |
 
 
